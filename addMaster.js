@@ -4,6 +4,8 @@ export const AtomMaster = 'origin'
 
 const Atom = {
   getComponent () {
+    if (!this.component) {
 
+    }
   }
 }
