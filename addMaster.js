@@ -1,6 +1,6 @@
 export const Atom = 'get'
 
-export const AtomMaster = 'origin'
+export const AtomMaster = 'atom-master'
 
 const Atom = {
   getComponent () {
