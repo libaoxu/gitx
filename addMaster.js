@@ -7,3 +7,4 @@ const Atom = {
 
   }
 }
+export const Next = 'next'
